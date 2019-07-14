@@ -1,4 +1,4 @@
-package com.glureau.unexpected.subscribeOn.ex1
+package com.glureau.unexpected.observeOn.ex1
 
 import com.glureau.unexpected.log
 import com.glureau.unexpected.waitForDisposableToTerminate
