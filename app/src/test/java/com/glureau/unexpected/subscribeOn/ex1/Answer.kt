@@ -6,6 +6,7 @@ import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 
 fun main() {
+
     Observable.fromCallable {
         log("preparing...")
         Thread.sleep(300)
